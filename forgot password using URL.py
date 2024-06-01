@@ -6,9 +6,9 @@ from email.mime.multipart import MIMEMultipart
 
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SMTP_USERNAME = 'panchalbrijesh712@gmail.com'
-SMTP_PASSWORD = 'hhbe hmrt leiu byvh'
-EMAIL_FROM = 'panchalbrijesh712@gmail.com'
+SMTP_USERNAME = ''
+SMTP_PASSWORD = ''
+EMAIL_FROM = ''
 
 app = Flask(__name__)
 

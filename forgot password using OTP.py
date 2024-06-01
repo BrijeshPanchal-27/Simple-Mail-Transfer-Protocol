@@ -8,8 +8,8 @@ app = Flask(__name__)
 otp_storage = {}
 
 # Email configuration
-EMAIL_ADDRESS = 'panchalbrijesh712@gmail.com'
-EMAIL_PASSWORD = 'hhbe hmrt leiu byvh'
+EMAIL_ADDRESS = ''
+EMAIL_PASSWORD = ''
 
 
 def send_email(receiver_email, otp):
